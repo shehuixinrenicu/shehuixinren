@@ -11,6 +11,9 @@ baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 # Publish posts or collection documents with a future date.
 future: true
 
+  remote_theme: pages-themes/cayman@v0.2.0
+
+
 # SNS settings
 #RSS: false
 #weibo_username: shxr
@@ -43,6 +46,8 @@ anchorjs: true # if you want to customize anchor. check out line:181 of `post.ht
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
 plugins: [jekyll-paginate]
+
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -96,6 +101,3 @@ friends:
   ]
   
   
-  remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
