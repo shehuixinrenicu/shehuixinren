@@ -16,4 +16,4 @@ With the principle : **of the people, by the people, for the people**, this manu
 
 ##### Thanks
 
-This blog is built up on ：[黄玄](https://huangxuan.me) , an awesome front end engineer.
+This blog is built up on ：[Huang Xuan黄玄](https://huangxuan.me)'s website.  Huang Xuan is an awesome front end engineer.
